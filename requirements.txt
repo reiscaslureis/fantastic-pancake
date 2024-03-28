@@ -1,0 +1,16 @@
+asgiref==3.8.1
+Django==4.2.11
+django-filter==24.2
+django-rest-framework==0.1.0
+django-tenants==3.6.1
+djangorestframework==3.15.1
+drf-yasg==1.21.7
+inflection==0.5.1
+packaging==24.0
+psycopg2==2.9.9
+python-decouple==3.8
+pytz==2024.1
+PyYAML==6.0.1
+sqlparse==0.4.4
+typing_extensions==4.10.0
+uritemplate==4.1.1
