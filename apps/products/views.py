@@ -19,5 +19,5 @@ class ProductViewSet(viewsets.ModelViewSet):
     serializer_class = ProductSerializer
     filterset_class = ProductFilter
     
-    search_fields = ['name', 'gtin']
+    search_fields = ['name', 'barcode']
     ordering_fields = '__all__'
